@@ -10,7 +10,7 @@ This repo should successfully detail how to use RAG and open-source LLMs availab
 
 1) git clone or download the files as a zip
    
-2) Make a virtual environment (I used conda in VS Code and my local device is an M1 macbook) and run this command in the terminal: pip install -r requirements.txt
+2) Make a virtual environment (I used conda in VS Code and my local device is an M1 macbook) and run this command in the terminal when in the same directory as all of the files: pip install -r requirements.txt
 
 3) Run the cells in the notebook (ipynb) file and note that you may need to restart the kernel after pip installing some of the packages and the requirements.txt file
 
