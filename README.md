@@ -4,7 +4,7 @@
 Using open-source LLMs to improve comprehension of advanced French literature for English learners (will look to expand for other languages).
 
 # Solution: 
-This repo should successfully detail how to use RAG and open-source LLMs available on Ollama using Langchain to read PDFs and Chroma DB as a retrieval database for the use case of language learning.
+This repo should successfully detail how to use RAG and open-source LLMs available on Ollama using Langchain to read PDFs and Chroma DB as a retrieval database for the use case of language learning. Using LLMs served by Ollama and using Langchain as the PDF reader is a robust implementation since the PDFs can be swapped out, as well as the models, to fit whichever personal learning goal you're looking to achieve. The sources for where I got some code to get started is cited below.
 
 # Instructions to replicate:
 
