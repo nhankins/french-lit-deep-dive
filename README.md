@@ -20,8 +20,8 @@ This repo should successfully detail how to use RAG and open-source LLMs availab
 
 # Quality Notes:
 
-On data source: Used a merged pdf of 4 project gutenberg ebooks that were originally in ePUB format. \n
-On embedding model: Used the same nomic embedding model used in the code from where the code template was retrieved (cited below as I did not write the code for this!) \n
+On data source: Used a merged pdf of 4 project gutenberg ebooks that were originally in ePUB format. ##
+On embedding model: Used the same nomic embedding model used in the code from where the code template was retrieved (cited below as I did not write the code for this!) ##
 On LLM: Used Aya 8B model given that the task is multilingual. Found that the larger model produced better results than the smaller stablelm2 model available on Ollama. 
 
 # Sources:
