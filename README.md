@@ -1,7 +1,10 @@
 # french-lit-deep-dive
 
-Goal: Using open-source LLMs to improve comprehension of advanced French literature for English learners (will look to expand for other languages).
-Solution: This repo should successfully detail how to use RAG and open-source LLMs available on Ollama using Langchain to read PDFs and Chroma DB as a retrieval database for the use case of language learning.
+# Goal: 
+Using open-source LLMs to improve comprehension of advanced French literature for English learners (will look to expand for other languages).
+
+# Solution: 
+This repo should successfully detail how to use RAG and open-source LLMs available on Ollama using Langchain to read PDFs and Chroma DB as a retrieval database for the use case of language learning.
 
 # Instructions to replicate:
 
